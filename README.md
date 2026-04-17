@@ -92,3 +92,6 @@ bot/
 ## 테스트 현황
 <img width="883" height="517" alt="image" src="https://github.com/user-attachments/assets/c02d3a9c-b5e7-4e56-894c-1517353596ba" />
 
+## 진행하며 고민이 담긴 부분
+https://www.notion.so/3445219e8c9a80159917f32eb59043fb?source=copy_link
+
